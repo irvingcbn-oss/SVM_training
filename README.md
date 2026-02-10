@@ -6,3 +6,9 @@ This Python project trains a support vector machine (SVM) classifier and evaluat
 - Pandas
 - Matplotlib
 - Seaborn
+
+## features_extraction.py
+This python script extracts relevant features from a raw EMG dataset.
+
+## 92modelo.py
+This python script trains a support vector machine model using GridSearchCV to find the optimal hyperparameters in order to achieve the best accuaracy.
